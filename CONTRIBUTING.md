@@ -28,7 +28,7 @@ Finally add the `skypyproject` repository as a *remote*. This will allow you to 
 
 ### Create a branch for your new feature
 
-Create a *branch* off the `skypyproject` master branch. Working on unique branches for each new feature simplifies the development, review and merge processes by maintining logical separation. To create a feature branch:
+Create a *branch* off the `skypyproject` master branch. Working on unique branches for each new feature simplifies the development, review and merge processes by maintaining logical separation. To create a feature branch:
 
   ```bash
   git fetch skypyproject
